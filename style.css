@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nn{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(80, 228, 228);
+    align-items: center;
+    
+    }
+a{
+    text-decoration: none;
+    color: rgb(226, 43, 156);
+}
+.tt{
+    display: grid;
+    grid-template-columns: 1fr  350px;
+    column-gap: 10px;
+}
+.ee{
+    grid-column: 1/4;
+}
+.rr{
+    background-color: rgb(87, 39, 201);
+}
+.ff{
+    background-color: rgb(12, 219, 116);
+
+}
+.ss{
+    background-color: rgb(228, 148, 83);
+   
+}
+.kk{
+    margin-left: 20px;
+}
+.bat{
+    text-align: center;
+    color: rgba(17, 13, 230, 0.87);
+}
